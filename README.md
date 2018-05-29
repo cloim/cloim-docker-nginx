@@ -5,7 +5,7 @@ Default configuration file (default.conf) will be placed in /etc/conf.d/nginx
 Default html will be placed in /var/www (index.html)
 
 ## Dockerfile links
-* [latest](https://gitlab.com/cloim/docker-nginx)
+* [latest](https://github.com/cloim/cloim-docker-nginx)
 
 # Examples
 ## Simple way
